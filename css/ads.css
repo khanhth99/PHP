@@ -1,0 +1,26 @@
+#ads-float{
+	float:right;
+	width:auto;
+	height:auto;
+	position:fixed;
+	right:0;
+	bottom:0;
+	}	
+#ads-float #ads-nav{
+	width:auto;
+	height:auto;
+	text-align:right;
+	}
+#ads-float #ads-nav button{
+	font-size:11px;
+	text-decoration:none;
+	background:#BB2026;
+	color:#FFFFFF;
+	padding:2px 4px;
+    display:inline-block;
+    outline: none;
+    border: none;
+	}
+#ads-float #ads-main{
+	border:1px solid #BB2026;
+	}
